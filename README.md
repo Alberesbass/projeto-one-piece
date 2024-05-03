@@ -5,6 +5,8 @@ Os usuários podem selecionar um personagem de uma lista de 5 personagens, inclu
 O projeto foi desenvolvido usando HTML, CSS e JavaScript.<br>
 O código está bem organizado e comentado, tornando-o fácil de entender e manter.
 
+<img src="./one-piece.gif" alt="gif da tela do projeto">
+
 <h3>Funcionamento</h3>
 Ao clicar no icone do personagem na lista, ele será selecionado.<br>
 A imagem, o nome e a descrição do personagem grande serão alterados para refletir o personagem selecionado.
